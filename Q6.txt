@@ -1,0 +1,14 @@
+What are IDs and classes in HTML, and how do they differ?
+
+ANS :-
+
+ID => identifier for an element in HTML.It must be unique in the whole html.
+It is used for specific element targeting or styling in javascript or css.
+
+<p id="prac">Hello World</p>
+
+Class => It is also like an identifier but it is not unique it can be used multiple
+times in the HTML.An element can have multiple classes.
+
+<p class="prac">Hello world</p>
+<p class="prac2">kunwarpreetSingh</p>

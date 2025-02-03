@@ -1,0 +1,21 @@
+What is HTML, and how is an HTML document structured?
+
+ANS :-
+
+HTML(HyperText MarkUp Language).It is an Language that is used to create web pages.It structures
+the content on the web using tags and attributes or elements.
+
+eg => h1...h6 tags,div tag,span tag etc.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AssignmentQ1</title>
+</head>
+<body>
+    <h1>Hello World</h1>
+</body>
+</html>
+
